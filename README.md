@@ -6,8 +6,8 @@ Python Project: To analyze posts of a media company's X account to identify tren
 2. To identify the post popular post categories
 3. To understand overall user engagement
 
-# Project Source: 
-https://www.coursera.org/projects/analyze-social-media-python
+# Source: 
+Coursera [https://www.coursera.org/projects/analyze-social-media-python]
 
 # Media Company: 
 The Jamaica Gleaner (JamaicaGleaner on X.com)
