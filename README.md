@@ -1,7 +1,7 @@
-# python-x-posts-analysis
+### Python-X-Posts-Analysis
 Python Project: To analyze posts of Jamaica Gleaner's X account to identify trends in its content and engagement that provide a view into its user appeal
 
-# Summary of Objectives:
+### Objectives (Summarized):
 1. To group posts based on highest keyword match per category
 2. To measure popularity of news categories by comparing likes and number of posts across categories
 3. To assess engagement levels over time
@@ -19,14 +19,20 @@ Python Project: To analyze posts of Jamaica Gleaner's X account to identify tren
 15. To assign posts to topics based on common words (topic modeling) 
 16. To identify groups of similar posts (k-means clustering) 
 
-# Derived from: 
+### Derived from: 
 Coursera [https://www.coursera.org/projects/analyze-social-media-python]
 
-# Media Company: 
+### Media Company: 
 The Jamaica Gleaner (JamaicaGleaner on X.com)
 
-# No. of Tweets Analyzed:
----
+### No. of Tweets Analyzed:
+Unavailable
 
-# API Used:
+### API Used:
 X API V2 
+
+### Aided By:
+ChatGPT 5.0
+
+### Status:
+Project terminated prematurely due to high resource requirements (API credits, media elements, funds)
